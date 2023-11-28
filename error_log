@@ -1,0 +1,45 @@
+[01-Jun-2023 13:36:05 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 28
+[01-Jun-2023 13:36:05 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 36
+[01-Jun-2023 13:36:23 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 28
+[01-Jun-2023 13:36:23 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 34
+[01-Jun-2023 13:52:57 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 28
+[01-Jun-2023 13:52:57 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 36
+[01-Jun-2023 13:53:36 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 28
+[01-Jun-2023 13:53:36 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 36
+[01-Jun-2023 13:54:17 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 28
+[01-Jun-2023 13:54:17 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 34
+[01-Jun-2023 13:54:43 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 28
+[01-Jun-2023 13:54:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 34
+[01-Jun-2023 15:28:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/registro.php on line 45
+[01-Jun-2023 15:29:08 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 28
+[01-Jun-2023 15:29:08 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 36
+[01-Jun-2023 15:39:23 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 28
+[01-Jun-2023 15:39:23 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 36
+[01-Jun-2023 21:11:56 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 28
+[01-Jun-2023 21:11:56 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 36
+[01-Jun-2023 21:12:19 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 28
+[01-Jun-2023 21:12:19 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 34
+[01-Jun-2023 22:24:58 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/registro.php on line 45
+[02-Jun-2023 01:03:41 America/Mexico_City] PHP Warning:  file_get_contents(imagen/logo.png): failed to open stream: No such file or directory in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/recuperar.php on line 99
+[02-Jun-2023 01:04:10 America/Mexico_City] PHP Warning:  file_get_contents(imagen/logo.png): failed to open stream: No such file or directory in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/recuperar.php on line 99
+[03-Jun-2023 01:51:18 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 32
+[03-Jun-2023 01:51:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/menu.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 40
+[03-Jun-2023 01:54:43 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 29
+[03-Jun-2023 01:54:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 35
+[03-Jun-2023 01:54:52 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 29
+[03-Jun-2023 01:54:52 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 35
+[03-Jun-2023 01:55:29 America/Mexico_City] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 29
+[03-Jun-2023 01:55:29 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php:1) in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 37
+[05-Jun-2023 01:05:46 America/Mexico_City] PHP Warning:  mail() expects parameter 5 to be string, array given in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/what.php on line 46
+[05-Jun-2023 01:06:02 America/Mexico_City] PHP Warning:  mail() expects parameter 5 to be string, array given in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/what.php on line 46
+[05-Jun-2023 01:07:37 America/Mexico_City] PHP Warning:  mail() expects parameter 5 to be string, array given in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/what.php on line 46
+[06-Jun-2023 23:03:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/what.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/what.php on line 13
+[06-Jun-2023 23:04:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/what.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/what.php on line 13
+[22-Jun-2023 10:19:55 America/Mexico_City] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/login.php on line 3
+[09-Aug-2023 16:25:57 America/Mexico_City] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/mezcalmi/www.mezcalera.mezcal-mixtle.mx/bebida.php on line 10

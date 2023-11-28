@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    
+}
+
+h1, h2, h3 {
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 200px;
+}
+
+
+
+.table-container {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+p {
+    font-weight: bold;
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+
+.logo-container {
+    text-align: center;
+}
+
+.logo {
+    display: inline-block;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.print-button {
+    margin-top: 20px;
+}
+
+.watermark {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    font-weight: bold;
+    color: red; /* Cambiar el color a rojo */
+    z-index: 9999;
+    pointer-events: none;
+}
+
+.watermark-image {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.watermark-text {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+@media print {
+    .table-container {
+        box-shadow: none;
+        page-break-after: always;
+    }
+
+    .watermark {
+        display: block;
+    }
+
+    .print-button {
+        display: none;
+    }
+
+}
+
